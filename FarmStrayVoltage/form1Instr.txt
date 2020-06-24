@@ -1,0 +1,7 @@
+1. The information provided by the Animal Contact Location Identification Number, and corresponding description, and by the farm sketch(es) shall be sufficient to allow a third party to locate the animal contact locations and identify the animal contact points noted on the Animal Contact Test Data Record
+
+2. Voltage measurements shall be made using one instrument to ensure consistency. The second measurement required for each animal contact location shall be taken immediately after the first measurement has been recorded. Comments related to the measurement process shall be recorded on the Animal Contact Test Comments sheet.
+
+3. Page 2 of Form 1 includes the Animal Contact Test Data Record table, which is to be filled in by the user. The values of the Animal Contact Location ID# must be an integer, and the two Vcc values must be of single precision type. Source Resistance is automatically calculated when all values have been input.
+
+4. Comments can be made on each row of the table either by entering them in the data table on Page 3 of Form 1 or double-clicking on the specific row on Page 2 (Pressing ENTER when complete).

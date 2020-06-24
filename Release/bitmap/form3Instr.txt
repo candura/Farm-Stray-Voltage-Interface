@@ -1,0 +1,13 @@
+1. If the input will be read from a Powerpro file; click the open file button and open the appropriate file. If the data will be entered manually, select "User Input".
+
+2. Enter all the initial measurements values in the appropriate fields.
+
+3. If using file input; enter the times that the 2-minute tests were started, and click "Process File Data". If entering data manually; enter all required data and click "Process User Data".
+
+NOTE ON DISTRIBUTOR CONTRIBUTION TEST
+
+1. With all farm power disconnected, there are no sources for neutral-to-earth voltage to be produced on the farm. The voltages measured at all locations should be approximately the same (FARM OFF, LOAD BOX OFF). There may be a difference of a few tenths of a volt in some situations. Assuming the primary (distributor) and secondary (farm) neutral conductors are bonded at the transformer, any voltage measured with the farm power off is most likely due to an off-farm source. The source may be voltage drop on the primary neutral, or it can be a ground fault at a neighbouring property in the area.
+
+2. If a farm is supplied with a single-phase multi-grounded utility distrubution line, the 240 volt load test should result in at least a slight increase in voltage when the load is applied (FARM OFF, LOAD BOX FULL). A large increase in neutral-to-earth voltage during the 240 volt load test indicates the primary neutral circuit resistance may need to be reduced.
+
+

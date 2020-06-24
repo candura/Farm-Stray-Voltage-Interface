@@ -1,0 +1,5 @@
+1. Enter the Animal Contact Location ID# pertaining to the contact location that the test was completed on.
+
+2. Open the Powerpro file by clicking the open file button and selecting the 48-hour Farm Stray Voltage Test file.
+
+3. The table and start/stop times will be filled automatically.

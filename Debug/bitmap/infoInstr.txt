@@ -1,0 +1,60 @@
+All fields marked with an asterisk (*) are required and used in the report.
+
+Customer Information:
+Enter the customer's contact information.
+
+Utility Information:
+This information is preprogrammed by Candura for the end user.
+
+Farm Information:
+This information can automatically be copied from the Customer Information by checking the "Same as Customer" box. If the farm information is different from the Customer information it may be entered manually.
+
+Investigation Information:
+Enter information specific to the data files.
+
+
+Barn Diagram:
+Enables the drawing of the property layout using the following icons and tools:
+
+	Window: Adds a window to the diagram that must be placed on a wall.
+
+	Door: Adds a door to the diagram that must be placed on a wall. Before pasting the door to the wall, pressing the directional keys will change the direction that the door swings.
+
+	Wall: After clicking on this icon, click where the wall starts in the diagram. Click again where the wall ends. 
+
+	Electrical Panel: Paste this icon where there is an electrical panel in the barn.
+
+	Meter: Paste this icon where the meter(s) were set up in the barn.
+
+	Animal Contact Location: Place this icon where an animal contact point occurred.
+
+	Text: Drag the pointer diagonally to create a text box, then enter the desired text.
+
+	New: Deletes all work and start a new diagram.
+
+	Save: Saves the diagram as a Bitmap (bmp) image.
+
+	Print: Prints the diagram.
+
+The diagram may be resized to fit the dimensions of the barn. All icons are placed by clicking once in the tool bar to select the icon, then once again in the diagram to paste it. Closing the diagram will save it to the current file.
+
+
+Property Diagram:
+
+Enables the drawing of the property layout using the following icons and tools:
+
+	Palette Icons: Click the icon, and click again to paste it at desired location. The objects are; pole, meter, barn, load box, ground rod, transformer, watering bowl, service panel, well, cow shocker, and animal contact location. The icons can be moved after pasting by click-and-dragging. 
+
+	Pointer: - Clicking on objects will select them for moving or deletion. 
+
+	Line: Click once to start a line, and click again to finish the line.
+
+	Text: Drag the pointer diagonally to create a text box, then enter the desired text.
+
+	Rectangle: Drag the pointer diagonally to draw a rectangle.
+
+	New: Deletes all work and start a new diagram.
+
+	Save: Saves the diagram as a Bitmap (bmp) image.
+
+Closing the diagram will save it to the current file.

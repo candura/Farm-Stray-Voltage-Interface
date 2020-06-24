@@ -1,0 +1,13 @@
+1. Enter general information and select "Single Phase" or "Three Phase" farm service type.
+
+2. Enter calibration factors for the four channels (found on the inside panel of the instrument).
+
+3. Click "Make Diagram" to make a visual representation of the test site setup.
+
+	a. Click on the diagram area to begin drawing a line, and click elsewhere to finish drawing the line. (Pressing escape will cancel the action)
+	b. Click and drag in the diagram area to create a text box which will accept typing. (Pressing escape will delete the text box)
+	c. Click and drag an icon from the palette to bring it into the diagram. Click on the icon to start/finish drawing a line from/to it.
+	d. Drag an icon into the trash bin to delete it.
+	e. Diagrams will be saved upon closure.
+
+3. When all the necessary forms have been completed, click "Generate Report" which will export the file as a .PDF, and make the forms read-only.

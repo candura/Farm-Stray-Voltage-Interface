@@ -1,0 +1,13 @@
+Channel Calibration:
+
+If the Stray Voltage Interface was calibrated with a PowerPro then these values will all be 1 when it is used with the specific PowerPro that it was calibrated with. If the Stray Voltage Interface was characterized without a PowerPro then these values should be set to the values that are on the Stray Voltage Interface calibration sticker.
+
+
+Service Type:
+
+Select either single phase or three phase. This will affect the report configuration.
+
+
+Vcc Input:
+
+Select whether the animal contact voltage was connected to Channel 4 (AC measurement) or Channel 5 (DC measurement)

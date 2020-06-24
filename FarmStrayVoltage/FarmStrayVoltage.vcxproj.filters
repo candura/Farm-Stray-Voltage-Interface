@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="DataSources">
+      <UniqueIdentifier>{ccec0335-18a9-42a8-b03a-68a953ad58ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="About.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FarmStrayVoltage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Instructions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrSplash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tablet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VoltGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="About.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Instructions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrSplash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tablet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VoltGraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="farm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xsd Include="farm.xsd">
+      <Filter>Header Files</Filter>
+    </Xsd>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="applicationIcon.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="barn.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="can.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="diagram.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ground.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hello.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="line.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="loadbox.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Adam Higgins\Desktop\FarmStrayVoltage\FarmStrayVoltage\logo1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="meter.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="newFile.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="point.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pole.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="text.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Text.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Debug\bitmap\waterloo_north_hydro.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Farm_Stray_Voltage_Data.datasource">
+      <Filter>DataSources</Filter>
+    </None>
+    <None Include="app.aps" />
+    <None Include="boo.xml" />
+    <None Include="Candura" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="emergency.txt" />
+    <None Include="farm.dll" />
+    <None Include="form1Instr.txt" />
+    <None Include="form2Instr.txt" />
+    <None Include="form3.xml" />
+    <None Include="form3Instr.txt" />
+    <None Include="form4Instr.txt" />
+    <None Include="form5Instr.txt" />
+    <None Include="form6Instr.txt" />
+    <None Include="FORM6wgoo.xml" />
+    <None Include="formsPrototype.fsv" />
+    <None Include="graphInput.txt" />
+    <None Include="mainInstr.txt" />
+    <None Include="poop.txt" />
+    <None Include="ppb00025.tst" />
+    <None Include="ReadMe.txt" />
+    <None Include="thisisafile.txt" />
+    <None Include="tst2.TST" />
+    <None Include="tst2.TSU" />
+    <None Include="farm.xsc" />
+    <None Include="farm.xss" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="InsideBarn.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sgsdhsdhsdh.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabletForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBox.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructions.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScrSplash.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablet.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VoltGraph.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="Debug.obj" />
+    <Object Include="Release.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="farm.dll.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <LicxCompiler Include="licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="FormReport.rdlc" />
+  </ItemGroup>
+</Project>

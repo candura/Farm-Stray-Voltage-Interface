@@ -1,0 +1,1157 @@
+  Stray Voltage Report Writer.exe.licenses - Embedded, ContainedInManifestFile, 
+  FormReport.rdlc - Embedded, ContainedInManifestFile, 
+  form1instr.txt - Embedded, ContainedInManifestFile, 
+  form2instr.txt - Embedded, ContainedInManifestFile, 
+  form3instr.txt - Embedded, ContainedInManifestFile, 
+  form4instr.txt - Embedded, ContainedInManifestFile, 
+  form5instr.txt - Embedded, ContainedInManifestFile, 
+  form6instr.txt - Embedded, ContainedInManifestFile, 
+  can.bmp - Embedded, ContainedInManifestFile, 
+  ground.bmp - Embedded, ContainedInManifestFile, 
+  loadbox.bmp - Embedded, ContainedInManifestFile, 
+  logo1.bmp - Embedded, ContainedInManifestFile, 
+  meter.bmp - Embedded, ContainedInManifestFile, 
+  pole.bmp - Embedded, ContainedInManifestFile, 
+  line.bmp - Embedded, ContainedInManifestFile, 
+  point.bmp - Embedded, ContainedInManifestFile, 
+  text.bmp - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.InsideBarn.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.sgsdhsdhsdh.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.TabletForm.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.About.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.Form1.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.InfoBox.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.Instructions.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.ScrSplash.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.Tablet.resources - Embedded, ContainedInManifestFile, 
+  FarmStrayVoltage.VoltGraph.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Stray Voltage Report Writer, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly ChartFX.WinForms.Gauge, Version=1.0.2601.0, Culture=neutral, PublicKeyToken=a1878e2052c08dce: 
+	hash=None, flags=None
+Assembly Gigasoft.ProEssentials, Version=4.0.4851.30792, Culture=neutral, PublicKeyToken=38150f10c0d12be5: 
+	hash=None, flags=None
+Assembly InsideBarn2, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91: 
+	hash=None, flags=None
+Assembly Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91: 
+	hash=None, flags=None
+Assembly Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  :System.Data.DataSet
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRelationCollection Relations 'get ' : 
+    System.Data.DataTableCollection Tables 'get ' : 
+    System.Data.SchemaSerializationMode SchemaSerializationMode 'get set' : 
+    Form_6_DataDataTable Form_6_Data 'get ' : 
+    Form_5_DataDataTable Form_5_Data 'get ' : 
+    Form_3_DataDataTable Form_3_Data 'get ' : 
+    Form_2_DataDataTable Form_2_Data 'get ' : 
+    Form_1_DataDataTable Form_1_Data 'get ' : 
+  Methods:
+    get_Form_1_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_2_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_3_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_5_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_6_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_SchemaSerializationMode(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    set_SchemaSerializationMode(SchemaSerializationMode): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Tables(): PrivateScope, Public, HideBySig, SpecialName
+    get_Relations(): PrivateScope, Public, HideBySig, SpecialName
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    GetTypedDataSetSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_1_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_1_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_1_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_2_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_2_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_2_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_3_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_3_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_3_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_5_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_5_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_5_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_6_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_6_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_6_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_1_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_1_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn commentColumn 'get ' : 
+    System.Data.DataColumn sourceResistanceColumn 'get ' : 
+    System.Data.DataColumn vwShuntColumn 'get ' : 
+    System.Data.DataColumn vwoShuntColumn 'get ' : 
+    System.Data.DataColumn descriptionColumn 'get ' : 
+    System.Data.DataColumn locIdColumn 'get ' : 
+  Events:
+    Form_1_DataRowChangeEventHandler Form_1_DataRowDeleted: SpecialName
+    Form_1_DataRowChangeEventHandler Form_1_DataRowDeleting: SpecialName
+    Form_1_DataRowChangeEventHandler Form_1_DataRowChanged: SpecialName
+    Form_1_DataRowChangeEventHandler Form_1_DataRowChanging: SpecialName
+  Methods:
+    add_Form_1_DataRowChanging(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowChanging(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_1_DataRowChanged(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowChanged(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_1_DataRowDeleting(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowDeleting(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_1_DataRowDeleted(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowDeleted(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_locIdColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_descriptionColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vwoShuntColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vwShuntColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_sourceResistanceColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_commentColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_1_DataRow(Int32, String, Single, Single, String): PrivateScope, Public, HideBySig
+    AddForm_1_DataRow(Int32, String, Single, Single, Single, String): PrivateScope, Public, HideBySig
+    AddForm_1_DataRow(Form_1_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_1_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_1_DataRow(Form_1_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_2_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_2_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn timeVccExceedsColumn 'get ' : 
+    System.Data.DataColumn pN2SNVoltColumn 'get ' : 
+    System.Data.DataColumn sN2RVoltColumn 'get ' : 
+    System.Data.DataColumn pN2RVoltColumn 'get ' : 
+    System.Data.DataColumn aContactVoltColumn 'get ' : 
+    System.Data.DataColumn highestVccColumn 'get ' : 
+    System.Data.DataColumn hourColumn 'get ' : 
+  Events:
+    Form_2_DataRowChangeEventHandler Form_2_DataRowDeleted: SpecialName
+    Form_2_DataRowChangeEventHandler Form_2_DataRowDeleting: SpecialName
+    Form_2_DataRowChangeEventHandler Form_2_DataRowChanged: SpecialName
+    Form_2_DataRowChangeEventHandler Form_2_DataRowChanging: SpecialName
+  Methods:
+    add_Form_2_DataRowChanging(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowChanging(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_2_DataRowChanged(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowChanged(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_2_DataRowDeleting(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowDeleting(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_2_DataRowDeleted(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowDeleted(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_hourColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceedsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_2_DataRow(Int16, TimeSpan, Single, Single, Single, Single, TimeSpan): PrivateScope, Public, HideBySig
+    AddForm_2_DataRow(Form_2_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_2_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_2_DataRow(Form_2_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_3_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_3_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn stepColumn 'get ' : 
+    System.Data.DataColumn timeColumn 'get ' : 
+    System.Data.DataColumn vpsColumn 'get ' : 
+    System.Data.DataColumn vsColumn 'get ' : 
+    System.Data.DataColumn vpColumn 'get ' : 
+    System.Data.DataColumn vccColumn 'get ' : 
+  Events:
+    Form_3_DataRowChangeEventHandler Form_3_DataRowDeleted: SpecialName
+    Form_3_DataRowChangeEventHandler Form_3_DataRowDeleting: SpecialName
+    Form_3_DataRowChangeEventHandler Form_3_DataRowChanged: SpecialName
+    Form_3_DataRowChangeEventHandler Form_3_DataRowChanging: SpecialName
+  Methods:
+    add_Form_3_DataRowChanging(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowChanging(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_3_DataRowChanged(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowChanged(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_3_DataRowDeleting(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowDeleting(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_3_DataRowDeleted(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowDeleted(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_vccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_stepColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_3_DataRow(Single, Single, Single, Single, DateTime, Int16): PrivateScope, Public, HideBySig
+    AddForm_3_DataRow(Form_3_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_3_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_3_DataRow(Form_3_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_5_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_5_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn stepColumn 'get ' : 
+    System.Data.DataColumn timeColumn 'get ' : 
+    System.Data.DataColumn vpsColumn 'get ' : 
+    System.Data.DataColumn vsColumn 'get ' : 
+    System.Data.DataColumn vpColumn 'get ' : 
+    System.Data.DataColumn vccColumn 'get ' : 
+  Events:
+    Form_5_DataRowChangeEventHandler Form_5_DataRowDeleted: SpecialName
+    Form_5_DataRowChangeEventHandler Form_5_DataRowDeleting: SpecialName
+    Form_5_DataRowChangeEventHandler Form_5_DataRowChanged: SpecialName
+    Form_5_DataRowChangeEventHandler Form_5_DataRowChanging: SpecialName
+  Methods:
+    add_Form_5_DataRowChanging(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowChanging(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_5_DataRowChanged(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowChanged(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_5_DataRowDeleting(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowDeleting(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_5_DataRowDeleted(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowDeleted(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_vccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_stepColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_5_DataRow(Single, Single, Single, Single, DateTime, Int16): PrivateScope, Public, HideBySig
+    AddForm_5_DataRow(Form_5_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_5_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_5_DataRow(Form_5_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_6_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_6_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn timeVccExceedsColumn 'get ' : 
+    System.Data.DataColumn pN2SNVoltColumn 'get ' : 
+    System.Data.DataColumn sN2RVoltColumn 'get ' : 
+    System.Data.DataColumn pN2RVoltColumn 'get ' : 
+    System.Data.DataColumn aContactVoltColumn 'get ' : 
+    System.Data.DataColumn highestVccColumn 'get ' : 
+    System.Data.DataColumn hourColumn 'get ' : 
+  Events:
+    Form_6_DataRowChangeEventHandler Form_6_DataRowDeleted: SpecialName
+    Form_6_DataRowChangeEventHandler Form_6_DataRowDeleting: SpecialName
+    Form_6_DataRowChangeEventHandler Form_6_DataRowChanged: SpecialName
+    Form_6_DataRowChangeEventHandler Form_6_DataRowChanging: SpecialName
+  Methods:
+    add_Form_6_DataRowChanging(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowChanging(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_6_DataRowChanged(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowChanged(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_6_DataRowDeleting(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowDeleting(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_6_DataRowDeleted(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowDeleted(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_hourColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceedsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_6_DataRow(Int16, TimeSpan, Single, Single, Single, Single, TimeSpan): PrivateScope, Public, HideBySig
+    AddForm_6_DataRow(Form_6_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_6_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_6_DataRow(Form_6_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_1_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    System.String comment 'get set' : 
+    Single sourceResistance 'get set' : 
+    Single vwShunt 'get set' : 
+    Single vwoShunt 'get set' : 
+    System.String description 'get set' : 
+    Int32 locId 'get set' : 
+  Methods:
+    get_locId(): PrivateScope, Public, HideBySig, SpecialName
+    set_locId(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_description(): PrivateScope, Public, HideBySig, SpecialName
+    set_description(String): PrivateScope, Public, HideBySig, SpecialName
+    get_vwoShunt(): PrivateScope, Public, HideBySig, SpecialName
+    set_vwoShunt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vwShunt(): PrivateScope, Public, HideBySig, SpecialName
+    set_vwShunt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_sourceResistance(): PrivateScope, Public, HideBySig, SpecialName
+    set_sourceResistance(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_comment(): PrivateScope, Public, HideBySig, SpecialName
+    set_comment(String): PrivateScope, Public, HideBySig, SpecialName
+    IslocIdNull(): PrivateScope, Public, HideBySig
+    SetlocIdNull(): PrivateScope, Public, HideBySig
+    IsdescriptionNull(): PrivateScope, Public, HideBySig
+    SetdescriptionNull(): PrivateScope, Public, HideBySig
+    IsvwoShuntNull(): PrivateScope, Public, HideBySig
+    SetvwoShuntNull(): PrivateScope, Public, HideBySig
+    IsvwShuntNull(): PrivateScope, Public, HideBySig
+    SetvwShuntNull(): PrivateScope, Public, HideBySig
+    IssourceResistanceNull(): PrivateScope, Public, HideBySig
+    SetsourceResistanceNull(): PrivateScope, Public, HideBySig
+    IscommentNull(): PrivateScope, Public, HideBySig
+    SetcommentNull(): PrivateScope, Public, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_2_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    System.TimeSpan timeVccExceeds 'get set' : 
+    Single pN2SNVolt 'get set' : 
+    Single sN2RVolt 'get set' : 
+    Single pN2RVolt 'get set' : 
+    Single aContactVolt 'get set' : 
+    System.TimeSpan highestVcc 'get set' : 
+    Int16 hour 'get set' : 
+  Methods:
+    get_hour(): PrivateScope, Public, HideBySig, SpecialName
+    set_hour(Int16): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_highestVcc(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_aContactVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_sN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2SNVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceeds(): PrivateScope, Public, HideBySig, SpecialName
+    set_timeVccExceeds(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    IshourNull(): PrivateScope, Public, HideBySig
+    SethourNull(): PrivateScope, Public, HideBySig
+    IshighestVccNull(): PrivateScope, Public, HideBySig
+    SethighestVccNull(): PrivateScope, Public, HideBySig
+    IsaContactVoltNull(): PrivateScope, Public, HideBySig
+    SetaContactVoltNull(): PrivateScope, Public, HideBySig
+    IspN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2RVoltNull(): PrivateScope, Public, HideBySig
+    IssN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetsN2RVoltNull(): PrivateScope, Public, HideBySig
+    IspN2SNVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2SNVoltNull(): PrivateScope, Public, HideBySig
+    IstimeVccExceedsNull(): PrivateScope, Public, HideBySig
+    SettimeVccExceedsNull(): PrivateScope, Public, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_3_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    Int16 step 'get set' : 
+    System.DateTime time 'get set' : 
+    Single vps 'get set' : 
+    Single vs  'get set' : 
+    Single vp  'get set' : 
+    Single vcc 'get set' : 
+  Methods:
+    get_vcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_vcc(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vp(): PrivateScope, Public, HideBySig, SpecialName
+    set_vp(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vs(): PrivateScope, Public, HideBySig, SpecialName
+    set_vs(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vps(): PrivateScope, Public, HideBySig, SpecialName
+    set_vps(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_time(): PrivateScope, Public, HideBySig, SpecialName
+    set_time(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_step(): PrivateScope, Public, HideBySig, SpecialName
+    set_step(Int16): PrivateScope, Public, HideBySig, SpecialName
+    IsvccNull(): PrivateScope, Public, HideBySig
+    SetvccNull(): PrivateScope, Public, HideBySig
+    IsvpNull(): PrivateScope, Public, HideBySig
+    SetvpNull(): PrivateScope, Public, HideBySig
+    IsvsNull(): PrivateScope, Public, HideBySig
+    SetvsNull(): PrivateScope, Public, HideBySig
+    IsvpsNull(): PrivateScope, Public, HideBySig
+    SetvpsNull(): PrivateScope, Public, HideBySig
+    IstimeNull(): PrivateScope, Public, HideBySig
+    SettimeNull(): PrivateScope, Public, HideBySig
+    IsstepNull(): PrivateScope, Public, HideBySig
+    SetstepNull(): PrivateScope, Public, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_5_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    Int16 step 'get set' : 
+    System.DateTime time 'get set' : 
+    Single vps 'get set' : 
+    Single vs  'get set' : 
+    Single vp  'get set' : 
+    Single vcc 'get set' : 
+  Methods:
+    get_vcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_vcc(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vp(): PrivateScope, Public, HideBySig, SpecialName
+    set_vp(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vs(): PrivateScope, Public, HideBySig, SpecialName
+    set_vs(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vps(): PrivateScope, Public, HideBySig, SpecialName
+    set_vps(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_time(): PrivateScope, Public, HideBySig, SpecialName
+    set_time(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_step(): PrivateScope, Public, HideBySig, SpecialName
+    set_step(Int16): PrivateScope, Public, HideBySig, SpecialName
+    IsvccNull(): PrivateScope, Public, HideBySig
+    SetvccNull(): PrivateScope, Public, HideBySig
+    IsvpNull(): PrivateScope, Public, HideBySig
+    SetvpNull(): PrivateScope, Public, HideBySig
+    IsvsNull(): PrivateScope, Public, HideBySig
+    SetvsNull(): PrivateScope, Public, HideBySig
+    IsvpsNull(): PrivateScope, Public, HideBySig
+    SetvpsNull(): PrivateScope, Public, HideBySig
+    IstimeNull(): PrivateScope, Public, HideBySig
+    SettimeNull(): PrivateScope, Public, HideBySig
+    IsstepNull(): PrivateScope, Public, HideBySig
+    SetstepNull(): PrivateScope, Public, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_6_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    System.TimeSpan timeVccExceeds 'get set' : 
+    Single pN2SNVolt 'get set' : 
+    Single sN2RVolt 'get set' : 
+    Single pN2RVolt 'get set' : 
+    Single aContactVolt 'get set' : 
+    System.TimeSpan highestVcc 'get set' : 
+    Int16 hour 'get set' : 
+  Methods:
+    get_hour(): PrivateScope, Public, HideBySig, SpecialName
+    set_hour(Int16): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_highestVcc(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_aContactVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_sN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2SNVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceeds(): PrivateScope, Public, HideBySig, SpecialName
+    set_timeVccExceeds(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    IshourNull(): PrivateScope, Public, HideBySig
+    SethourNull(): PrivateScope, Public, HideBySig
+    IshighestVccNull(): PrivateScope, Public, HideBySig
+    SethighestVccNull(): PrivateScope, Public, HideBySig
+    IsaContactVoltNull(): PrivateScope, Public, HideBySig
+    SetaContactVoltNull(): PrivateScope, Public, HideBySig
+    IspN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2RVoltNull(): PrivateScope, Public, HideBySig
+    IssN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetsN2RVoltNull(): PrivateScope, Public, HideBySig
+    IspN2SNVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2SNVoltNull(): PrivateScope, Public, HideBySig
+    IstimeVccExceedsNull(): PrivateScope, Public, HideBySig
+    SettimeVccExceedsNull(): PrivateScope, Public, HideBySig
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_1_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_1_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_1_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_2_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_2_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_2_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_3_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_3_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_3_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_5_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_5_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_5_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class Stray_Voltage_Report_Writer.Farm_Stray_Voltage_Data+Form_6_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_6_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_6_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class FarmStrayVoltage.About: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FarmStrayVoltage.ScrSplash: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FarmStrayVoltage.InfoBox: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label ch1i : Public
+    System.Windows.Forms.Label ch3v : Public
+    System.Windows.Forms.Label ch2v : Public
+    System.Windows.Forms.Label ch1v : Public
+    System.Windows.Forms.Button esc : Public
+    System.Windows.Forms.Label dateText : Public
+  Methods:
+    getX(): PrivateScope, Public, HideBySig
+    isGrabbed(): PrivateScope, Public, HideBySig
+    gotGrabbed(): PrivateScope, Public, HideBySig
+    gotDropped(): PrivateScope, Public, HideBySig
+    isOnRight(): PrivateScope, Public, HideBySig
+    switchOnRight(): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.VoltGraph: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Gigasoft.ProEssentials.Pesgo pesgo1 : Public
+    System.ComponentModel.Container components : Public
+    Int32 a : Public
+  Methods:
+    VoltGraph_Load(Object, EventArgs): PrivateScope, Public, HideBySig
+    DrawGraph(Double[], Single[]): PrivateScope, Public, HideBySig
+    SetNumRecord(Int32): PrivateScope, Public, HideBySig
+    saveBitmap(String): PrivateScope, Public, HideBySig
+    saveBitmap(Int32, Int32): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Instructions: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Control, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FarmStrayVoltage.PaintPanel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Panel
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[System.Drawing.Rectangle] rects : Public
+    Boolean drawing : Public
+    Boolean drawingR : Public
+  Methods:
+    setNodes(List`1): PrivateScope, Public, HideBySig
+    drawLine(Point, Point): PrivateScope, Public, HideBySig
+    drawRect(Rectangle): PrivateScope, Public, HideBySig
+    nodeSelected(Int32): PrivateScope, Public, HideBySig
+    Contains(Point): PrivateScope, Public, HideBySig
+    KillRectangle(Int32): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.TabletForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    saveDiagram(): PrivateScope, Public, HideBySig
+    openDiagram(StreamReader): PrivateScope, Public, HideBySig
+    saveBitmap(String): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class MyApp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  :System.Data.DataSet
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRelationCollection Relations 'get ' : 
+    System.Data.DataTableCollection Tables 'get ' : 
+    System.Data.SchemaSerializationMode SchemaSerializationMode 'get set' : 
+    Form_6_DataDataTable Form_6_Data 'get ' : 
+    Form_5_DataDataTable Form_5_Data 'get ' : 
+    Form_3_DataDataTable Form_3_Data 'get ' : 
+    Form_2_DataDataTable Form_2_Data 'get ' : 
+    Form_1_DataDataTable Form_1_Data 'get ' : 
+  Methods:
+    get_Form_1_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_2_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_3_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_5_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_Form_6_Data(): PrivateScope, Public, HideBySig, SpecialName
+    get_SchemaSerializationMode(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    set_SchemaSerializationMode(SchemaSerializationMode): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Tables(): PrivateScope, Public, HideBySig, SpecialName
+    get_Relations(): PrivateScope, Public, HideBySig, SpecialName
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    GetTypedDataSetSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_1_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_1_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_1_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_2_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_2_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_2_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_3_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_3_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_3_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_5_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_5_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_5_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_6_DataRowChangeEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, Form_6_DataRowChangeEvent): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, Form_6_DataRowChangeEvent, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_1_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_1_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn commentColumn 'get ' : 
+    System.Data.DataColumn sourceResistanceColumn 'get ' : 
+    System.Data.DataColumn vwShuntColumn 'get ' : 
+    System.Data.DataColumn vwoShuntColumn 'get ' : 
+    System.Data.DataColumn descriptionColumn 'get ' : 
+    System.Data.DataColumn locIdColumn 'get ' : 
+  Events:
+    Form_1_DataRowChangeEventHandler Form_1_DataRowDeleted: SpecialName
+    Form_1_DataRowChangeEventHandler Form_1_DataRowDeleting: SpecialName
+    Form_1_DataRowChangeEventHandler Form_1_DataRowChanged: SpecialName
+    Form_1_DataRowChangeEventHandler Form_1_DataRowChanging: SpecialName
+  Methods:
+    add_Form_1_DataRowChanging(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowChanging(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_1_DataRowChanged(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowChanged(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_1_DataRowDeleting(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowDeleting(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_1_DataRowDeleted(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_1_DataRowDeleted(Form_1_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_locIdColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_descriptionColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vwoShuntColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vwShuntColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_sourceResistanceColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_commentColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_1_DataRow(Int32, String, Single, Single, String): PrivateScope, Public, HideBySig
+    AddForm_1_DataRow(Int32, String, Single, Single, Single, String): PrivateScope, Public, HideBySig
+    AddForm_1_DataRow(Form_1_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_1_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_1_DataRow(Form_1_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_2_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_2_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn timeVccExceedsColumn 'get ' : 
+    System.Data.DataColumn pN2SNVoltColumn 'get ' : 
+    System.Data.DataColumn sN2RVoltColumn 'get ' : 
+    System.Data.DataColumn pN2RVoltColumn 'get ' : 
+    System.Data.DataColumn aContactVoltColumn 'get ' : 
+    System.Data.DataColumn highestVccColumn 'get ' : 
+    System.Data.DataColumn hourColumn 'get ' : 
+  Events:
+    Form_2_DataRowChangeEventHandler Form_2_DataRowDeleted: SpecialName
+    Form_2_DataRowChangeEventHandler Form_2_DataRowDeleting: SpecialName
+    Form_2_DataRowChangeEventHandler Form_2_DataRowChanged: SpecialName
+    Form_2_DataRowChangeEventHandler Form_2_DataRowChanging: SpecialName
+  Methods:
+    add_Form_2_DataRowChanging(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowChanging(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_2_DataRowChanged(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowChanged(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_2_DataRowDeleting(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowDeleting(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_2_DataRowDeleted(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_2_DataRowDeleted(Form_2_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_hourColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceedsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_2_DataRow(Int16, TimeSpan, Single, Single, Single, Single, TimeSpan): PrivateScope, Public, HideBySig
+    AddForm_2_DataRow(Form_2_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_2_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_2_DataRow(Form_2_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_3_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_3_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn stepColumn 'get ' : 
+    System.Data.DataColumn timeColumn 'get ' : 
+    System.Data.DataColumn vpsColumn 'get ' : 
+    System.Data.DataColumn vsColumn 'get ' : 
+    System.Data.DataColumn vpColumn 'get ' : 
+    System.Data.DataColumn vccColumn 'get ' : 
+  Events:
+    Form_3_DataRowChangeEventHandler Form_3_DataRowDeleted: SpecialName
+    Form_3_DataRowChangeEventHandler Form_3_DataRowDeleting: SpecialName
+    Form_3_DataRowChangeEventHandler Form_3_DataRowChanged: SpecialName
+    Form_3_DataRowChangeEventHandler Form_3_DataRowChanging: SpecialName
+  Methods:
+    add_Form_3_DataRowChanging(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowChanging(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_3_DataRowChanged(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowChanged(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_3_DataRowDeleting(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowDeleting(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_3_DataRowDeleted(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_3_DataRowDeleted(Form_3_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_vccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_stepColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_3_DataRow(Single, Single, Single, Single, DateTime, Int16): PrivateScope, Public, HideBySig
+    AddForm_3_DataRow(Form_3_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_3_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_3_DataRow(Form_3_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_5_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_5_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn stepColumn 'get ' : 
+    System.Data.DataColumn timeColumn 'get ' : 
+    System.Data.DataColumn vpsColumn 'get ' : 
+    System.Data.DataColumn vsColumn 'get ' : 
+    System.Data.DataColumn vpColumn 'get ' : 
+    System.Data.DataColumn vccColumn 'get ' : 
+  Events:
+    Form_5_DataRowChangeEventHandler Form_5_DataRowDeleted: SpecialName
+    Form_5_DataRowChangeEventHandler Form_5_DataRowDeleting: SpecialName
+    Form_5_DataRowChangeEventHandler Form_5_DataRowChanged: SpecialName
+    Form_5_DataRowChangeEventHandler Form_5_DataRowChanging: SpecialName
+  Methods:
+    add_Form_5_DataRowChanging(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowChanging(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_5_DataRowChanged(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowChanged(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_5_DataRowDeleting(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowDeleting(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_5_DataRowDeleted(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_5_DataRowDeleted(Form_5_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_vccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_vpsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_stepColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_5_DataRow(Single, Single, Single, Single, DateTime, Int16): PrivateScope, Public, HideBySig
+    AddForm_5_DataRow(Form_5_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_5_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_5_DataRow(Form_5_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_6_DataDataTable: AutoLayout, AnsiClass, Class, NestedPublic, Serializable, BeforeFieldInit
+  :System.Data.DataTable
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Collections.IEnumerable
+  Properties:
+    Form_6_DataRow Item [Int32] 'get ' : 
+    Int32 Count 'get ' : 
+    System.Data.DataColumn timeVccExceedsColumn 'get ' : 
+    System.Data.DataColumn pN2SNVoltColumn 'get ' : 
+    System.Data.DataColumn sN2RVoltColumn 'get ' : 
+    System.Data.DataColumn pN2RVoltColumn 'get ' : 
+    System.Data.DataColumn aContactVoltColumn 'get ' : 
+    System.Data.DataColumn highestVccColumn 'get ' : 
+    System.Data.DataColumn hourColumn 'get ' : 
+  Events:
+    Form_6_DataRowChangeEventHandler Form_6_DataRowDeleted: SpecialName
+    Form_6_DataRowChangeEventHandler Form_6_DataRowDeleting: SpecialName
+    Form_6_DataRowChangeEventHandler Form_6_DataRowChanged: SpecialName
+    Form_6_DataRowChangeEventHandler Form_6_DataRowChanging: SpecialName
+  Methods:
+    add_Form_6_DataRowChanging(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowChanging(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_6_DataRowChanged(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowChanged(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_6_DataRowDeleting(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowDeleting(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_Form_6_DataRowDeleted(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_Form_6_DataRowDeleted(Form_6_DataRowChangeEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    get_hourColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVccColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVoltColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceedsColumn(): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+    AddForm_6_DataRow(Int16, TimeSpan, Single, Single, Single, Single, TimeSpan): PrivateScope, Public, HideBySig
+    AddForm_6_DataRow(Form_6_DataRow): PrivateScope, Public, HideBySig
+    GetEnumerator(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Clone(): PrivateScope, Public, Virtual, HideBySig
+    NewForm_6_DataRow(): PrivateScope, Public, HideBySig
+    RemoveForm_6_DataRow(Form_6_DataRow): PrivateScope, Public, HideBySig
+    GetTypedTableSchema(XmlSchemaSet): PrivateScope, Public, Static, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_1_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    System.String comment 'get set' : 
+    Single sourceResistance 'get set' : 
+    Single vwShunt 'get set' : 
+    Single vwoShunt 'get set' : 
+    System.String description 'get set' : 
+    Int32 locId 'get set' : 
+  Methods:
+    get_locId(): PrivateScope, Public, HideBySig, SpecialName
+    set_locId(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_description(): PrivateScope, Public, HideBySig, SpecialName
+    set_description(String): PrivateScope, Public, HideBySig, SpecialName
+    get_vwoShunt(): PrivateScope, Public, HideBySig, SpecialName
+    set_vwoShunt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vwShunt(): PrivateScope, Public, HideBySig, SpecialName
+    set_vwShunt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_sourceResistance(): PrivateScope, Public, HideBySig, SpecialName
+    set_sourceResistance(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_comment(): PrivateScope, Public, HideBySig, SpecialName
+    set_comment(String): PrivateScope, Public, HideBySig, SpecialName
+    IslocIdNull(): PrivateScope, Public, HideBySig
+    SetlocIdNull(): PrivateScope, Public, HideBySig
+    IsdescriptionNull(): PrivateScope, Public, HideBySig
+    SetdescriptionNull(): PrivateScope, Public, HideBySig
+    IsvwoShuntNull(): PrivateScope, Public, HideBySig
+    SetvwoShuntNull(): PrivateScope, Public, HideBySig
+    IsvwShuntNull(): PrivateScope, Public, HideBySig
+    SetvwShuntNull(): PrivateScope, Public, HideBySig
+    IssourceResistanceNull(): PrivateScope, Public, HideBySig
+    SetsourceResistanceNull(): PrivateScope, Public, HideBySig
+    IscommentNull(): PrivateScope, Public, HideBySig
+    SetcommentNull(): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_2_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    System.TimeSpan timeVccExceeds 'get set' : 
+    Single pN2SNVolt 'get set' : 
+    Single sN2RVolt 'get set' : 
+    Single pN2RVolt 'get set' : 
+    Single aContactVolt 'get set' : 
+    System.TimeSpan highestVcc 'get set' : 
+    Int16 hour 'get set' : 
+  Methods:
+    get_hour(): PrivateScope, Public, HideBySig, SpecialName
+    set_hour(Int16): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_highestVcc(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_aContactVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_sN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2SNVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceeds(): PrivateScope, Public, HideBySig, SpecialName
+    set_timeVccExceeds(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    IshourNull(): PrivateScope, Public, HideBySig
+    SethourNull(): PrivateScope, Public, HideBySig
+    IshighestVccNull(): PrivateScope, Public, HideBySig
+    SethighestVccNull(): PrivateScope, Public, HideBySig
+    IsaContactVoltNull(): PrivateScope, Public, HideBySig
+    SetaContactVoltNull(): PrivateScope, Public, HideBySig
+    IspN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2RVoltNull(): PrivateScope, Public, HideBySig
+    IssN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetsN2RVoltNull(): PrivateScope, Public, HideBySig
+    IspN2SNVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2SNVoltNull(): PrivateScope, Public, HideBySig
+    IstimeVccExceedsNull(): PrivateScope, Public, HideBySig
+    SettimeVccExceedsNull(): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_3_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    Int16 step 'get set' : 
+    System.DateTime time 'get set' : 
+    Single vps 'get set' : 
+    Single vs  'get set' : 
+    Single vp  'get set' : 
+    Single vcc 'get set' : 
+  Methods:
+    get_vcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_vcc(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vp(): PrivateScope, Public, HideBySig, SpecialName
+    set_vp(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vs(): PrivateScope, Public, HideBySig, SpecialName
+    set_vs(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vps(): PrivateScope, Public, HideBySig, SpecialName
+    set_vps(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_time(): PrivateScope, Public, HideBySig, SpecialName
+    set_time(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_step(): PrivateScope, Public, HideBySig, SpecialName
+    set_step(Int16): PrivateScope, Public, HideBySig, SpecialName
+    IsvccNull(): PrivateScope, Public, HideBySig
+    SetvccNull(): PrivateScope, Public, HideBySig
+    IsvpNull(): PrivateScope, Public, HideBySig
+    SetvpNull(): PrivateScope, Public, HideBySig
+    IsvsNull(): PrivateScope, Public, HideBySig
+    SetvsNull(): PrivateScope, Public, HideBySig
+    IsvpsNull(): PrivateScope, Public, HideBySig
+    SetvpsNull(): PrivateScope, Public, HideBySig
+    IstimeNull(): PrivateScope, Public, HideBySig
+    SettimeNull(): PrivateScope, Public, HideBySig
+    IsstepNull(): PrivateScope, Public, HideBySig
+    SetstepNull(): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_5_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    Int16 step 'get set' : 
+    System.DateTime time 'get set' : 
+    Single vps 'get set' : 
+    Single vs  'get set' : 
+    Single vp  'get set' : 
+    Single vcc 'get set' : 
+  Methods:
+    get_vcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_vcc(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vp(): PrivateScope, Public, HideBySig, SpecialName
+    set_vp(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vs(): PrivateScope, Public, HideBySig, SpecialName
+    set_vs(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_vps(): PrivateScope, Public, HideBySig, SpecialName
+    set_vps(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_time(): PrivateScope, Public, HideBySig, SpecialName
+    set_time(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_step(): PrivateScope, Public, HideBySig, SpecialName
+    set_step(Int16): PrivateScope, Public, HideBySig, SpecialName
+    IsvccNull(): PrivateScope, Public, HideBySig
+    SetvccNull(): PrivateScope, Public, HideBySig
+    IsvpNull(): PrivateScope, Public, HideBySig
+    SetvpNull(): PrivateScope, Public, HideBySig
+    IsvsNull(): PrivateScope, Public, HideBySig
+    SetvsNull(): PrivateScope, Public, HideBySig
+    IsvpsNull(): PrivateScope, Public, HideBySig
+    SetvpsNull(): PrivateScope, Public, HideBySig
+    IstimeNull(): PrivateScope, Public, HideBySig
+    SettimeNull(): PrivateScope, Public, HideBySig
+    IsstepNull(): PrivateScope, Public, HideBySig
+    SetstepNull(): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_6_DataRow: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.Data.DataRow
+  Properties:
+    System.TimeSpan timeVccExceeds 'get set' : 
+    Single pN2SNVolt 'get set' : 
+    Single sN2RVolt 'get set' : 
+    Single pN2RVolt 'get set' : 
+    Single aContactVolt 'get set' : 
+    System.TimeSpan highestVcc 'get set' : 
+    Int16 hour 'get set' : 
+  Methods:
+    get_hour(): PrivateScope, Public, HideBySig, SpecialName
+    set_hour(Int16): PrivateScope, Public, HideBySig, SpecialName
+    get_highestVcc(): PrivateScope, Public, HideBySig, SpecialName
+    set_highestVcc(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    get_aContactVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_aContactVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_sN2RVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_sN2RVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_pN2SNVolt(): PrivateScope, Public, HideBySig, SpecialName
+    set_pN2SNVolt(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_timeVccExceeds(): PrivateScope, Public, HideBySig, SpecialName
+    set_timeVccExceeds(TimeSpan): PrivateScope, Public, HideBySig, SpecialName
+    IshourNull(): PrivateScope, Public, HideBySig
+    SethourNull(): PrivateScope, Public, HideBySig
+    IshighestVccNull(): PrivateScope, Public, HideBySig
+    SethighestVccNull(): PrivateScope, Public, HideBySig
+    IsaContactVoltNull(): PrivateScope, Public, HideBySig
+    SetaContactVoltNull(): PrivateScope, Public, HideBySig
+    IspN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2RVoltNull(): PrivateScope, Public, HideBySig
+    IssN2RVoltNull(): PrivateScope, Public, HideBySig
+    SetsN2RVoltNull(): PrivateScope, Public, HideBySig
+    IspN2SNVoltNull(): PrivateScope, Public, HideBySig
+    SetpN2SNVoltNull(): PrivateScope, Public, HideBySig
+    IstimeVccExceedsNull(): PrivateScope, Public, HideBySig
+    SettimeVccExceedsNull(): PrivateScope, Public, HideBySig
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_1_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_1_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_1_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_2_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_2_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_2_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_3_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_3_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_3_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_5_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_5_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_5_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName
+Class FarmStrayVoltage.Farm_Stray_Voltage_Data+Form_6_DataRowChangeEvent: AutoLayout, AnsiClass, Class, NestedPublic, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(Form_6_DataRow, System.Data.DataRowAction): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Data.DataRowAction Action 'get ' : 
+    Form_6_DataRow Row 'get ' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    get_Action(): PrivateScope, Public, HideBySig, SpecialName

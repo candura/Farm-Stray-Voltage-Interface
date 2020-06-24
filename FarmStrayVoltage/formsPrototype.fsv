@@ -1,0 +1,524 @@
+Adam Higgins
+56
+Picton, ON
+2009/12/15
+2009/11/22 17:09:00
+2009/11/23 09:43:36
+2009/11/22 17:09
+2009/11/11 08:18
+2009/11/12 14:15:30
+2009/11/12 15:42:36
+1
+3.65
+1.45
+1.166
+13.6
+313.94
+464.4
+1.654
+01.45641
+1.1
+1230.13
+1.164
+13.1
+1.960358
+1.948895
+1
+ppb00025.tst
+ppb00025.tst
+Candura.TST
+tst2.TST
+2
+152
+100
+40138.8125251667
+-429
+108
+40139.2974283889
+0
+diagram
+5
+112,225
+4
+277,263
+5
+579,179
+6
+273,226
+-1
+419,67
+8
+5
+1
+89,328
+4
+254,366
+3
+468,282
+3
+131,236
+2
+396,170
+0
+1
+1
+1.15
+1
+17:00
+1.17
+1.17
+1.35
+1.17
+18:00
+1.11
+1.12
+1.29
+1.13
+19:00
+1.13
+1.13
+1.3
+1.13
+20:00
+1.13
+1.13
+1.3
+1.13
+21:00
+1.13
+1.14
+1.31
+1.14
+08:00
+0.01
+0.07
+0.08
+0.07
+09:00
+0.01
+0.07
+0.08
+0.07
+10:00
+0.01
+0.07
+0.08
+0.07
+11:00
+0.01
+0.07
+0.08
+0.07
+12:00
+0.01
+0.07
+0.08
+0.07
+<Farm_x0020_Stray_x0020_Voltage_x0020_Data>
+  <Form_x0020_1_x0020_Data>
+    <locId>1</locId>
+    <description>Over there</description>
+    <vwoShunt>1.2</vwoShunt>
+    <vwShunt>0.6</vwShunt>
+    <sourceResistance>500</sourceResistance>
+    <comment>Howdy folks</comment>
+  </Form_x0020_1_x0020_Data>
+  <Form_x0020_1_x0020_Data>
+    <locId>2</locId>
+    <description>Down Yonder</description>
+    <vwoShunt>1.4</vwoShunt>
+    <vwShunt>0.7</vwShunt>
+    <sourceResistance>500</sourceResistance>
+    <comment>Got a whale of a tale to tell ya lads</comment>
+  </Form_x0020_1_x0020_Data>
+  <Form_x0020_1_x0020_Data>
+    <locId>3</locId>
+    <description>Gibberish</description>
+    <vwoShunt>1.5</vwoShunt>
+    <vwShunt>0.75</vwShunt>
+    <sourceResistance>500</sourceResistance>
+    <comment>A whale of a tale or two</comment>
+  </Form_x0020_1_x0020_Data>
+  <Form_x0020_1_x0020_Data>
+    <locId>4</locId>
+    <description>Down by the River</description>
+    <comment>'Bout the flapping fish and the girls I've loved</comment>
+  </Form_x0020_1_x0020_Data>
+  <Form_x0020_1_x0020_Data>
+    <locId>5</locId>
+    <description>I shot my baby</description>
+    <comment>Other</comment>
+  </Form_x0020_1_x0020_Data>
+  <Form_x0020_1_x0020_Data>
+    <locId>6</locId>
+    <comment>On nights like this with the moon above</comment>
+  </Form_x0020_1_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>1</hour>
+    <highestVcc>PT17H25M10S</highestVcc>
+    <aContactVolt>1.95</aContactVolt>
+    <pN2RVolt>1.96</pN2RVolt>
+    <sN2RVolt>2.25</sN2RVolt>
+    <pN2SNVolt>1.96</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>2</hour>
+    <highestVcc>PT18H10M40S</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>3</hour>
+    <highestVcc>PT19H28M50S</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>4</hour>
+    <highestVcc>PT20H25M30S</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>5</hour>
+    <highestVcc>PT21H57M30S</highestVcc>
+    <aContactVolt>1.15</aContactVolt>
+    <pN2RVolt>1.15</pN2RVolt>
+    <sN2RVolt>1.32</sN2RVolt>
+    <pN2SNVolt>1.15</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>6</hour>
+    <highestVcc>PT22H47M50S</highestVcc>
+    <aContactVolt>1.15</aContactVolt>
+    <pN2RVolt>1.15</pN2RVolt>
+    <sN2RVolt>1.32</sN2RVolt>
+    <pN2SNVolt>1.15</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>7</hour>
+    <highestVcc>PT23H9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.14</pN2RVolt>
+    <sN2RVolt>1.31</sN2RVolt>
+    <pN2SNVolt>1.14</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>8</hour>
+    <highestVcc>PT9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>9</hour>
+    <highestVcc>PT1H9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.14</pN2RVolt>
+    <sN2RVolt>1.31</sN2RVolt>
+    <pN2SNVolt>1.14</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>10</hour>
+    <highestVcc>PT2H9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.14</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>11</hour>
+    <highestVcc>PT3H9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.14</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>12</hour>
+    <highestVcc>PT4H9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.14</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>13</hour>
+    <highestVcc>PT5H18M40S</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>14</hour>
+    <highestVcc>PT6H9M</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>15</hour>
+    <highestVcc>PT7H15M50S</highestVcc>
+    <aContactVolt>1.13</aContactVolt>
+    <pN2RVolt>1.13</pN2RVolt>
+    <sN2RVolt>1.3</sN2RVolt>
+    <pN2SNVolt>1.13</pN2SNVolt>
+    <timeVccExceeds>PT1H</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>16</hour>
+    <highestVcc>PT9H1M30S</highestVcc>
+    <aContactVolt>1.69</aContactVolt>
+    <pN2RVolt>1.7</pN2RVolt>
+    <sN2RVolt>1.95</sN2RVolt>
+    <pN2SNVolt>1.7</pN2SNVolt>
+    <timeVccExceeds>PT55M20S</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_2_x0020_Data>
+    <hour>17</hour>
+    <highestVcc>PT9H9M</highestVcc>
+    <aContactVolt>0.69</aContactVolt>
+    <pN2RVolt>0.71</pN2RVolt>
+    <sN2RVolt>0.81</sN2RVolt>
+    <pN2SNVolt>0.7</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_2_x0020_Data>
+  <Form_x0020_3_x0020_Data>
+    <vcc>1.17</vcc>
+    <vp>1.17</vp>
+    <vs>1.35</vs>
+    <vps>1.17</vps>
+    <time>2009-12-15T17:00:00-05:00</time>
+    <step>1</step>
+  </Form_x0020_3_x0020_Data>
+  <Form_x0020_3_x0020_Data>
+    <vcc>1.11</vcc>
+    <vp>1.12</vp>
+    <vs>1.29</vs>
+    <vps>1.13</vps>
+    <time>2009-12-15T18:00:00-05:00</time>
+    <step>2</step>
+  </Form_x0020_3_x0020_Data>
+  <Form_x0020_3_x0020_Data>
+    <vcc>1.13</vcc>
+    <vp>1.13</vp>
+    <vs>1.3</vs>
+    <vps>1.13</vps>
+    <time>2009-12-15T19:00:00-05:00</time>
+    <step>3</step>
+  </Form_x0020_3_x0020_Data>
+  <Form_x0020_3_x0020_Data>
+    <vcc>1.13</vcc>
+    <vp>1.13</vp>
+    <vs>1.3</vs>
+    <vps>1.13</vps>
+    <time>2009-12-15T20:00:00-05:00</time>
+    <step>4</step>
+  </Form_x0020_3_x0020_Data>
+  <Form_x0020_3_x0020_Data>
+    <vcc>1.13</vcc>
+    <vp>1.14</vp>
+    <vs>1.31</vs>
+    <vps>1.14</vps>
+    <time>2009-12-15T21:00:00-05:00</time>
+    <step>5</step>
+  </Form_x0020_3_x0020_Data>
+  <Form_x0020_5_x0020_Data>
+    <vcc>0.01</vcc>
+    <vp>0.07</vp>
+    <vs>0.08</vs>
+    <vps>0.07</vps>
+    <time>2009-12-15T08:00:00-05:00</time>
+    <step>1</step>
+  </Form_x0020_5_x0020_Data>
+  <Form_x0020_5_x0020_Data>
+    <vcc>0.01</vcc>
+    <vp>0.07</vp>
+    <vs>0.08</vs>
+    <vps>0.07</vps>
+    <time>2009-12-15T09:00:00-05:00</time>
+    <step>2</step>
+  </Form_x0020_5_x0020_Data>
+  <Form_x0020_5_x0020_Data>
+    <vcc>0.01</vcc>
+    <vp>0.07</vp>
+    <vs>0.08</vs>
+    <vps>0.07</vps>
+    <time>2009-12-15T10:00:00-05:00</time>
+    <step>3</step>
+  </Form_x0020_5_x0020_Data>
+  <Form_x0020_5_x0020_Data>
+    <vcc>0.01</vcc>
+    <vp>0.07</vp>
+    <vs>0.08</vs>
+    <vps>0.07</vps>
+    <time>2009-12-15T11:00:00-05:00</time>
+    <step>4</step>
+  </Form_x0020_5_x0020_Data>
+  <Form_x0020_5_x0020_Data>
+    <vcc>0.01</vcc>
+    <vp>0.07</vp>
+    <vs>0.08</vs>
+    <vps>0.07</vps>
+    <time>2009-12-15T12:00:00-05:00</time>
+    <step>5</step>
+  </Form_x0020_5_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>1</hour>
+    <highestVcc>PT14H15M30S</highestVcc>
+    <aContactVolt>0.07</aContactVolt>
+    <pN2RVolt>0.07</pN2RVolt>
+    <sN2RVolt>0.08</sN2RVolt>
+    <pN2SNVolt>0.07</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>2</hour>
+    <highestVcc>PT15H15M30S</highestVcc>
+    <aContactVolt>0.07</aContactVolt>
+    <pN2RVolt>0.07</pN2RVolt>
+    <sN2RVolt>0.08</sN2RVolt>
+    <pN2SNVolt>0.07</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>3</hour>
+    <highestVcc>PT17H10M30S</highestVcc>
+    <aContactVolt>0.1</aContactVolt>
+    <pN2RVolt>0.1</pN2RVolt>
+    <sN2RVolt>0.11</sN2RVolt>
+    <pN2SNVolt>0.1</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>4</hour>
+    <highestVcc>PT17H15M30S</highestVcc>
+    <aContactVolt>0.1</aContactVolt>
+    <pN2RVolt>0.1</pN2RVolt>
+    <sN2RVolt>0.11</sN2RVolt>
+    <pN2SNVolt>0.1</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>5</hour>
+    <highestVcc>PT18H15M30S</highestVcc>
+    <aContactVolt>0.1</aContactVolt>
+    <pN2RVolt>0.1</pN2RVolt>
+    <sN2RVolt>0.11</sN2RVolt>
+    <pN2SNVolt>0.1</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>6</hour>
+    <highestVcc>PT19H15M30S</highestVcc>
+    <aContactVolt>0.1</aContactVolt>
+    <pN2RVolt>0.1</pN2RVolt>
+    <sN2RVolt>0.11</sN2RVolt>
+    <pN2SNVolt>0.1</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>7</hour>
+    <highestVcc>PT20H15M30S</highestVcc>
+    <aContactVolt>0.1</aContactVolt>
+    <pN2RVolt>0.1</pN2RVolt>
+    <sN2RVolt>0.11</sN2RVolt>
+    <pN2SNVolt>0.1</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>8</hour>
+    <highestVcc>PT21H15M30S</highestVcc>
+    <aContactVolt>0.1</aContactVolt>
+    <pN2RVolt>0.1</pN2RVolt>
+    <sN2RVolt>0.11</sN2RVolt>
+    <pN2SNVolt>0.1</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>9</hour>
+    <highestVcc>PT22H15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>10</hour>
+    <highestVcc>PT23H15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>11</hour>
+    <highestVcc>PT15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>12</hour>
+    <highestVcc>PT1H15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>13</hour>
+    <highestVcc>PT2H15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>14</hour>
+    <highestVcc>PT3H15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+  <Form_x0020_6_x0020_Data>
+    <hour>15</hour>
+    <highestVcc>PT4H15M30S</highestVcc>
+    <aContactVolt>0.05</aContactVolt>
+    <pN2RVolt>0.05</pN2RVolt>
+    <sN2RVolt>0.06</sN2RVolt>
+    <pN2SNVolt>0.05</pN2SNVolt>
+    <timeVccExceeds>PT0S</timeVccExceeds>
+  </Form_x0020_6_x0020_Data>
+</Farm_x0020_Stray_x0020_Voltage_x0020_Data>

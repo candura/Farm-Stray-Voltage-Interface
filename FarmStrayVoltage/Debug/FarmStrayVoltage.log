@@ -1,0 +1,70 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\farm.h(9): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\farm.h(9): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  About.cpp
+  AssemblyInfo.cpp
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\assemblyinfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\assemblyinfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  FarmStrayVoltage.cpp
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(271): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(309): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(328): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(349): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(371): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(397): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(413): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(431): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(498): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(526): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(547): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(568): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(589): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(610): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(843): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(5700): warning C4691: 'System::Action': type referenced was expected in unreferenced assembly 'System.Core', type defined in current translation unit used instead
+  c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(5700): note: This diagnostic occurred while importing type 'Microsoft::Reporting::WinForms::LocalReport ' from assembly 'Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'.
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(6414): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(6423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(6871): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(7308): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(7310): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\form1.h(7831): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  InfoBox.cpp
+  Instructions.cpp
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ScrSplash.cpp
+  Tablet.cpp
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(271): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(309): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(328): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(349): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(371): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(397): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(413): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(431): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(498): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(526): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(547): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(568): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(589): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(610): warning C4101: 'ae': unreferenced local variable
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\tablet.h(843): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  VoltGraph.cpp
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adrianzsombor\desktop\pv dsr code\farmstrayvoltage\farmstrayvoltage\voltgraph.h(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FarmStrayVoltage.vcxproj -> C:\Users\AdrianZsombor\Desktop\PV DSR Code\FarmStrayVoltage\Debug\Stray Voltage Report Writer.exe

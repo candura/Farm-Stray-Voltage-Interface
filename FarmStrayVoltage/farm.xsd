@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Farm_x0020_Stray_x0020_Voltage_x0020_Data" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Farm_x0020_Stray_x0020_Voltage_x0020_Data" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Farm Stray Voltage Data" msprop:Generator_DataSetName="Farm_Stray_Voltage_Data">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Form_x0020_1_x0020_Data" msprop:Generator_UserTableName="Form 1 Data" msprop:Generator_RowDeletedName="Form_1_DataRowDeleted" msprop:Generator_RowChangedName="Form_1_DataRowChanged" msprop:Generator_RowClassName="Form_1_DataRow" msprop:Generator_RowChangingName="Form_1_DataRowChanging" msprop:Generator_RowEvArgName="Form_1_DataRowChangeEvent" msprop:Generator_RowEvHandlerName="Form_1_DataRowChangeEventHandler" msprop:Generator_TableClassName="Form_1_DataDataTable" msprop:Generator_TableVarName="tableForm_1_Data" msprop:Generator_RowDeletingName="Form_1_DataRowDeleting" msprop:Generator_TablePropName="Form_1_Data">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="locId" msprop:Generator_UserColumnName="locId" msprop:Generator_ColumnPropNameInRow="locId" msprop:Generator_ColumnVarNameInTable="columnlocId" msprop:Generator_ColumnPropNameInTable="locIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="description" msprop:Generator_UserColumnName="description" msprop:Generator_ColumnPropNameInRow="description" msprop:Generator_ColumnVarNameInTable="columndescription" msprop:Generator_ColumnPropNameInTable="descriptionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="vwoShunt" msprop:Generator_UserColumnName="vwoShunt" msprop:Generator_ColumnPropNameInRow="vwoShunt" msprop:Generator_ColumnVarNameInTable="columnvwoShunt" msprop:Generator_ColumnPropNameInTable="vwoShuntColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vwShunt" msprop:Generator_UserColumnName="vwShunt" msprop:Generator_ColumnPropNameInRow="vwShunt" msprop:Generator_ColumnVarNameInTable="columnvwShunt" msprop:Generator_ColumnPropNameInTable="vwShuntColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="sourceResistance" msdata:ReadOnly="true" msdata:Expression="((vwoShunt - vwShunt)/vwShunt) * 500" msprop:Generator_UserColumnName="sourceResistance" msprop:Generator_ColumnPropNameInRow="sourceResistance" msprop:Generator_ColumnVarNameInTable="columnsourceResistance" msprop:Generator_ColumnPropNameInTable="sourceResistanceColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="comment" msprop:Generator_UserColumnName="comment" msprop:Generator_ColumnPropNameInRow="comment" msprop:Generator_ColumnVarNameInTable="columncomment" msprop:Generator_ColumnPropNameInTable="commentColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Form_x0020_2_x0020_Data" msprop:Generator_UserTableName="Form 2 Data" msprop:Generator_RowDeletedName="Form_2_DataRowDeleted" msprop:Generator_RowChangedName="Form_2_DataRowChanged" msprop:Generator_RowClassName="Form_2_DataRow" msprop:Generator_RowChangingName="Form_2_DataRowChanging" msprop:Generator_RowEvArgName="Form_2_DataRowChangeEvent" msprop:Generator_RowEvHandlerName="Form_2_DataRowChangeEventHandler" msprop:Generator_TableClassName="Form_2_DataDataTable" msprop:Generator_TableVarName="tableForm_2_Data" msprop:Generator_RowDeletingName="Form_2_DataRowDeleting" msprop:Generator_TablePropName="Form_2_Data">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="hour" msprop:Generator_UserColumnName="hour" msprop:Generator_ColumnPropNameInRow="hour" msprop:Generator_ColumnVarNameInTable="columnhour" msprop:Generator_ColumnPropNameInTable="hourColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="highestVcc" msprop:Generator_UserColumnName="highestVcc" msprop:Generator_ColumnPropNameInRow="highestVcc" msprop:Generator_ColumnVarNameInTable="columnhighestVcc" msprop:Generator_ColumnPropNameInTable="highestVccColumn" type="xs:duration" minOccurs="0" />
+              <xs:element name="aContactVolt" msprop:Generator_UserColumnName="aContactVolt" msprop:Generator_ColumnPropNameInRow="aContactVolt" msprop:Generator_ColumnVarNameInTable="columnaContactVolt" msprop:Generator_ColumnPropNameInTable="aContactVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="pN2RVolt" msprop:Generator_UserColumnName="pN2RVolt" msprop:Generator_ColumnPropNameInRow="pN2RVolt" msprop:Generator_ColumnVarNameInTable="columnpN2RVolt" msprop:Generator_ColumnPropNameInTable="pN2RVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="sN2RVolt" msprop:Generator_UserColumnName="sN2RVolt" msprop:Generator_ColumnPropNameInRow="sN2RVolt" msprop:Generator_ColumnVarNameInTable="columnsN2RVolt" msprop:Generator_ColumnPropNameInTable="sN2RVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="pN2SNVolt" msprop:Generator_UserColumnName="pN2SNVolt" msprop:Generator_ColumnPropNameInRow="pN2SNVolt" msprop:Generator_ColumnVarNameInTable="columnpN2SNVolt" msprop:Generator_ColumnPropNameInTable="pN2SNVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="timeVccExceeds" msprop:Generator_UserColumnName="timeVccExceeds" msprop:Generator_ColumnPropNameInRow="timeVccExceeds" msprop:Generator_ColumnVarNameInTable="columntimeVccExceeds" msprop:Generator_ColumnPropNameInTable="timeVccExceedsColumn" type="xs:duration" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Form_x0020_3_x0020_Data" msprop:Generator_UserTableName="Form 3 Data" msprop:Generator_RowDeletedName="Form_3_DataRowDeleted" msprop:Generator_RowChangedName="Form_3_DataRowChanged" msprop:Generator_RowClassName="Form_3_DataRow" msprop:Generator_RowChangingName="Form_3_DataRowChanging" msprop:Generator_RowEvArgName="Form_3_DataRowChangeEvent" msprop:Generator_RowEvHandlerName="Form_3_DataRowChangeEventHandler" msprop:Generator_TableClassName="Form_3_DataDataTable" msprop:Generator_TableVarName="tableForm_3_Data" msprop:Generator_RowDeletingName="Form_3_DataRowDeleting" msprop:Generator_TablePropName="Form_3_Data">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="vcc" msprop:Generator_UserColumnName="vcc" msprop:Generator_ColumnVarNameInTable="columnvcc" msprop:Generator_ColumnPropNameInRow="vcc" msprop:Generator_ColumnPropNameInTable="vccColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vp" msprop:Generator_UserColumnName="vp" msprop:Generator_ColumnVarNameInTable="columnvp" msprop:Generator_ColumnPropNameInRow="vp" msprop:Generator_ColumnPropNameInTable="vpColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vs" msprop:Generator_UserColumnName="vs" msprop:Generator_ColumnVarNameInTable="columnvs" msprop:Generator_ColumnPropNameInRow="vs" msprop:Generator_ColumnPropNameInTable="vsColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vps" msprop:Generator_UserColumnName="vps" msprop:Generator_ColumnVarNameInTable="columnvps" msprop:Generator_ColumnPropNameInRow="vps" msprop:Generator_ColumnPropNameInTable="vpsColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="time" msprop:Generator_UserColumnName="time" msprop:Generator_ColumnVarNameInTable="columntime" msprop:Generator_ColumnPropNameInRow="time" msprop:Generator_ColumnPropNameInTable="timeColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="step" msprop:Generator_UserColumnName="step" msprop:Generator_ColumnVarNameInTable="columnstep" msprop:Generator_ColumnPropNameInRow="step" msprop:Generator_ColumnPropNameInTable="stepColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Form_x0020_5_x0020_Data" msprop:Generator_UserTableName="Form 5 Data" msprop:Generator_RowDeletedName="Form_5_DataRowDeleted" msprop:Generator_RowChangedName="Form_5_DataRowChanged" msprop:Generator_RowClassName="Form_5_DataRow" msprop:Generator_RowChangingName="Form_5_DataRowChanging" msprop:Generator_RowEvArgName="Form_5_DataRowChangeEvent" msprop:Generator_RowEvHandlerName="Form_5_DataRowChangeEventHandler" msprop:Generator_TableClassName="Form_5_DataDataTable" msprop:Generator_TableVarName="tableForm_5_Data" msprop:Generator_RowDeletingName="Form_5_DataRowDeleting" msprop:Generator_TablePropName="Form_5_Data">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="vcc" msprop:Generator_UserColumnName="vcc" msprop:Generator_ColumnPropNameInRow="vcc" msprop:Generator_ColumnVarNameInTable="columnvcc" msprop:Generator_ColumnPropNameInTable="vccColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vp" msprop:Generator_UserColumnName="vp" msprop:Generator_ColumnPropNameInRow="vp" msprop:Generator_ColumnVarNameInTable="columnvp" msprop:Generator_ColumnPropNameInTable="vpColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vs" msprop:Generator_UserColumnName="vs" msprop:Generator_ColumnPropNameInRow="vs" msprop:Generator_ColumnVarNameInTable="columnvs" msprop:Generator_ColumnPropNameInTable="vsColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="vps" msprop:Generator_UserColumnName="vps" msprop:Generator_ColumnPropNameInRow="vps" msprop:Generator_ColumnVarNameInTable="columnvps" msprop:Generator_ColumnPropNameInTable="vpsColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="time" msprop:Generator_UserColumnName="time" msprop:Generator_ColumnPropNameInRow="time" msprop:Generator_ColumnVarNameInTable="columntime" msprop:Generator_ColumnPropNameInTable="timeColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="step" msprop:Generator_UserColumnName="step" msprop:Generator_ColumnPropNameInRow="step" msprop:Generator_ColumnVarNameInTable="columnstep" msprop:Generator_ColumnPropNameInTable="stepColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Form_x0020_6_x0020_Data" msprop:Generator_UserTableName="Form 6 Data" msprop:Generator_RowDeletedName="Form_6_DataRowDeleted" msprop:Generator_RowChangedName="Form_6_DataRowChanged" msprop:Generator_RowClassName="Form_6_DataRow" msprop:Generator_RowChangingName="Form_6_DataRowChanging" msprop:Generator_RowEvArgName="Form_6_DataRowChangeEvent" msprop:Generator_RowEvHandlerName="Form_6_DataRowChangeEventHandler" msprop:Generator_TableClassName="Form_6_DataDataTable" msprop:Generator_TableVarName="tableForm_6_Data" msprop:Generator_RowDeletingName="Form_6_DataRowDeleting" msprop:Generator_TablePropName="Form_6_Data">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="hour" msprop:Generator_UserColumnName="hour" msprop:Generator_ColumnVarNameInTable="columnhour" msprop:Generator_ColumnPropNameInRow="hour" msprop:Generator_ColumnPropNameInTable="hourColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="highestVcc" msprop:Generator_UserColumnName="highestVcc" msprop:Generator_ColumnVarNameInTable="columnhighestVcc" msprop:Generator_ColumnPropNameInRow="highestVcc" msprop:Generator_ColumnPropNameInTable="highestVccColumn" type="xs:duration" minOccurs="0" />
+              <xs:element name="aContactVolt" msprop:Generator_UserColumnName="aContactVolt" msprop:Generator_ColumnVarNameInTable="columnaContactVolt" msprop:Generator_ColumnPropNameInRow="aContactVolt" msprop:Generator_ColumnPropNameInTable="aContactVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="pN2RVolt" msprop:Generator_UserColumnName="pN2RVolt" msprop:Generator_ColumnVarNameInTable="columnpN2RVolt" msprop:Generator_ColumnPropNameInRow="pN2RVolt" msprop:Generator_ColumnPropNameInTable="pN2RVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="sN2RVolt" msprop:Generator_UserColumnName="sN2RVolt" msprop:Generator_ColumnVarNameInTable="columnsN2RVolt" msprop:Generator_ColumnPropNameInRow="sN2RVolt" msprop:Generator_ColumnPropNameInTable="sN2RVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="pN2SNVolt" msprop:Generator_UserColumnName="pN2SNVolt" msprop:Generator_ColumnVarNameInTable="columnpN2SNVolt" msprop:Generator_ColumnPropNameInRow="pN2SNVolt" msprop:Generator_ColumnPropNameInTable="pN2SNVoltColumn" type="xs:float" minOccurs="0" />
+              <xs:element name="timeVccExceeds" msprop:Generator_UserColumnName="timeVccExceeds" msprop:Generator_ColumnVarNameInTable="columntimeVccExceeds" msprop:Generator_ColumnPropNameInRow="timeVccExceeds" msprop:Generator_ColumnPropNameInTable="timeVccExceedsColumn" type="xs:duration" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

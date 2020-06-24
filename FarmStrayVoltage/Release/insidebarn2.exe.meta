@@ -1,0 +1,37 @@
+  InsideBarn2.Properties.Resources.resources - Embedded, ContainedInManifestFile, 
+  InsideBarn2.DrawingSpace.resources - Embedded, ContainedInManifestFile, 
+Assembly InsideBarn2, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=SHA1, flags=None
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=SHA1, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=SHA1, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=SHA1, flags=None
+Class InsideBarn2.DrawingSpace: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    saveDiagram(): PrivateScope, Public, HideBySig
+    openDiagram(StreamReader): PrivateScope, Public, HideBySig
+    saveBitmap(String): PrivateScope, Public, HideBySig
+Class InsideBarn2.PaintPanel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Panel
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Drawing.Bitmap backBuffer : Public
+    System.Drawing.Rectangle wall : Public
+    System.Collections.Generic.List`1[System.Drawing.Rectangle] walls : Public
+    System.Windows.Forms.PictureBox door : Public
+    System.Windows.Forms.PictureBox window : Public
+  Methods:
+    doorChange(Keys): PrivateScope, Public, HideBySig
+    init(): PrivateScope, Public, HideBySig
+    StartDoor(): PrivateScope, Public, HideBySig
+    StopDoor(): PrivateScope, Public, HideBySig
+    StartWindow(): PrivateScope, Public, HideBySig
+    StopWindow(): PrivateScope, Public, HideBySig
+    saveDoors(): PrivateScope, Public, HideBySig
+    openDoors(StreamReader): PrivateScope, Public, HideBySig
